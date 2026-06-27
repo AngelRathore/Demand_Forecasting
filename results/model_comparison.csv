@@ -1,0 +1,4 @@
+model,SMAPE,MAE
+Gradient Boosting (recursive),3.0,14.6
+Seasonal Naive,4.2,20.4
+Naive (last value),2.6,12.5
